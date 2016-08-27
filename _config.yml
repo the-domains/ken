@@ -1,4 +1,3 @@
-layout_spectrum: 0.014600957510992885
 typography_spectrum: 0.15948374825529754
 color:
   brandStrength: 0.24098229687660933
@@ -6,9 +5,11 @@ color:
   saturation: 0.5638190694153309
   rhythmicContrast: 0.7964235250838101
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.014600957510992885
 name: Ken
+title: Ken
