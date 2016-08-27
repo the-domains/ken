@@ -12,5 +12,9 @@ color:
     - '#FAD8D6'
 layout_spectrum: 0.014600957510992885
 name: Ken
+navigation:
+  - name: .ABOUT ME
+    id: a8df7908-cd94-4c67-8642-7467c2244108
+    type: content
 title: Ken
 description: freelancer
