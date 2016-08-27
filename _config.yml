@@ -1,3 +1,4 @@
+layout_spectrum: 0.014600957510992885
 typography_spectrum: 0.15948374825529754
 color:
   brandStrength: 0.24098229687660933
@@ -10,11 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.014600957510992885
 name: Ken
-navigation:
-  - name: .ABOUT ME
-    id: a8df7908-cd94-4c67-8642-7467c2244108
-    type: content
-title: Ken
-description: freelancer
